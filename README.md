@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050505,30:121212,65:3B0F18,100:6E0E1E&text=Savita%20S&fontColor=F5F5F5&fontSize=58&fontAlignY=38&desc=AI%20Engineer%20•%20Data%20Science%20•%20Cloud%20Computing&descAlignY=58&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=130&color=0:050505,30:121212,65:3B0F18,100:6E0E1E"/>
 
 # Hey there, I'm Savita S
 
@@ -153,7 +153,7 @@ My interests lie in **Artificial Intelligence**, **Data Science**, **Cloud Compu
 
 > *"Build things that solve real problems, keep learning, stay curious, and let consistency outperform talent."*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050505,30:121212,65:3B0F18,100:6E0E1E&text=Savita%20S&fontColor=F5F5F5&fontSize=58&fontAlignY=38&desc=AI%20Engineer%20•%20Data%20Science%20•%20Cloud%20Computing&descAlignY=58&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=130&color=0:050505,30:121212,65:3B0F18,100:6E0E1E"/>
 
 </div>
 
