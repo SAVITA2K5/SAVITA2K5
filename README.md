@@ -1,7 +1,6 @@
 <div align="center">
 
-<img width="100%" src="![Uploading image.png…]()
-"/>
+
 
 # Hey there, I'm Savita S
 
