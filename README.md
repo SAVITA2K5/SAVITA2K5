@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="YOUR_CINEMATIC_BANNER_URL_HERE"/>
+
 
 # Hey there, I'm Savita S
 
